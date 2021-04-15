@@ -46,5 +46,6 @@ let object = {
   address: null,
   surname: undefined,
   payment: {1: ['asdas', 'adasd'], 2: 0},
-  boolean: true
+  boolean: true,
+  number: 5
 }
